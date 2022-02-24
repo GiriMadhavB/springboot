@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-          New rules and regulation of states city 
+       New rules and regulation of states city 
 </body>
 </html>

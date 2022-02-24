@@ -1,13 +1,13 @@
-package com.wipro.demo;
+package com.product.demo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class MyWebAppApplication {
+public class RestfullServiceProductApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(MyWebAppApplication.class, args);
+		SpringApplication.run(RestfullServiceProductApplication.class, args);
 	}
 
 }
